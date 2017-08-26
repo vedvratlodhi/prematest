@@ -9,6 +9,7 @@ public class BubbleSort {
 		System.out.println("gjykjkjh");
 		System.out.println("gjykjkjh");
 		System.out.println("gjykjkjh");
+			System.out.println("gjykjkjh");	System.out.println("gjykjkjh");	System.out.println("gjykjkjh");
 
 	}
 
